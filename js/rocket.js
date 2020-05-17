@@ -27,7 +27,7 @@
 						randomNumber)
 
 						//success
-					if (randomNumber > 5) {
+					if (randomNumber > 1) {
 						changeState(4);
 					} else {
 						changeState(5); // oh no!
