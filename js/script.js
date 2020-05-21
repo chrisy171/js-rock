@@ -1,3 +1,7 @@
+setTimeout(function() {
+
+}, 200);
+
 
  var doCoolStuff = function() {
  	var currentClassName = document.getElementById('cool').className;
